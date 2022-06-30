@@ -1,0 +1,40 @@
+header{
+
+    background: linear-gradient(to right, #0099cc 0%, #000099 100%);
+    color: white;
+
+
+}
+
+.searchBtn{
+    background-color: #0099cc;
+    border: none;
+    color: white;
+    padding: 12px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    
+}
+
+.searchBtn:hover {
+
+    cursor: pointer;
+    background-color: #0792b3;
+  }
+  
+  .searchBtn:active {
+  
+    cursor: pointer;
+    background-color: #05647a;
+  }
+
+  section {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .card-body {
+    padding: 0.5rem !important;
+  }
